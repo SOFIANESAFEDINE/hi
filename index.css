@@ -1,0 +1,80 @@
+body {  
+  background-image: url(20230730_024109_0000.png);
+  background-color: #EEF1F6;
+  background-repeat: no-repeat;
+  background-size: 400px; 
+  background-position: top,center; 
+}
+#Ia{   
+  height: 40px;
+  width: 250px;
+  background-color: #CACBD5; 
+  font-size: large; 
+  font: italic bold 16px Georgia, Serif;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  box-shadow: 3px 5px 10px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 50px;
+ border-style:hidden;
+}
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  /* المسافة بين الأزرار */
+  justify-content: center;
+}
+
+#facebook,
+#instagram,
+#line {
+  height: 40px;
+  width: 250px;
+  background-color: #CACBD5;
+  font-size: large;
+  font: italic bold 16px Georgia, Serif;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  box-shadow: 3px 5px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 50px;
+  border-style: hidden;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+
+  #facebook,
+  #instagram,
+  #line {
+    width: 200px;
+    /* تقليل عرض الأزرار عندما تكون الشاشة ضيقة */
+  }
+}
+
+@media (max-width: 400px) {
+
+  #facebook,
+  #instagram,
+  #line {
+    width: 150px;
+    /* تقليل عرض الأزرار أكثر عند عرض الشاشة الأصغر */
+  }
+}
+
+#Tx{
+  color: black;
+  font-size: 15px;
+  text-shadow: 1px 1px 10px #000dff;
+  }
+  #Ib{ 
+    height: 40px;
+    width: 75px;
+    background-color: #CACBD5;
+    font-size: large; 
+    font: italic bold 16px Georgia, Serif;
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 5px 10px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 50px;
+   border-style:hidden;
+  }
