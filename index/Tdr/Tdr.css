@@ -1,0 +1,23 @@
+body {  
+    
+    background-color: #EEF1F6;
+    background-image: url(20230421_185009.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: top,center;
+}
+
+#Ia{
+    height: 40px;
+    width: 250px;
+    background-color: #CACBD5;
+    font-size: large; 
+    font: italic bold 16px Georgia, Serif;
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 5px 10px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 50px;
+   border-style:hidden;
+}
+
+     
