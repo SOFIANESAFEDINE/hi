@@ -1,0 +1,107 @@
+body { 
+    background-image: url(20230312_001456.png);
+    background-color: #CFD3CE;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: top,center;
+}
+
+#t1{height: 30px;
+    width: 30px;
+    background-color: rgb(255, 166, 166);
+}
+#t2{height: 30px;
+    width: 30px; 
+    background-color: rgb(253, 241, 169);
+}
+#t3{height: 30px;
+    width: 30px;
+    background-color: rgb(168, 168, 251);
+}
+#t4{height: 30px;
+    width: 30px;
+    background-color: rgb(211, 167, 250);
+}
+#T1{height: 30px;
+    width: 30px;
+    background-color: rgb(255, 215, 215);
+}
+#T2{height: 30px;
+    width: 30px;
+    background-color: rgb(255, 250, 219);
+}
+#T3{height: 30px;
+    width: 30px;
+    background-color: rgb(212, 212, 248);
+}
+#T4{height: 30px;
+    width: 30px;
+    background-color: rgb(238, 219, 255);
+}
+
+#T88{height: 30px;
+    width: 110px;
+    background-color: rgb(252, 252, 252);
+}
+#T99{height: 30px;
+    width: 110px;
+    background-color: rgb(247, 247, 247);
+}
+#T{
+    border-color: black;
+}
+#I1{
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    background-color: rgb(252, 252, 252);
+}
+#I2{
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    background-color: rgb(252, 252, 252);
+}
+#I111{
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    background-color: rgb(252, 252, 252);
+}
+#I222{
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    background-color: rgb(252, 252, 252);
+}
+#B1{
+    height: 25px;
+    width: 100px;
+    background-color: aqua;
+}
+#B2{
+    height: 25px;
+    width: 100px;
+    background-color: aqua;
+}
+#BB3{
+    height: 25px;
+    width: 100px;
+    background-color: aqua;
+}
+#T888{height: 30px;
+    width: 110px;
+    background-color: rgb(252, 252, 252);
+}
+#T999{height: 30px;
+    width: 110px;
+    background-color: rgb(252, 252, 252);
+}
+#T8888{height: 30px;
+    width: 110px;
+    background-color: rgb(252, 252, 252);
+}
+#T9999{height: 30px;
+    width: 110px;
+    background-color: rgb(252, 252, 252);
+}
