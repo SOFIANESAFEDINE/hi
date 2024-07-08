@@ -1,0 +1,105 @@
+body {
+    background-image: url(20230730_024109_0000.png);
+    background-color: #EEF1F6;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: top, center;
+}
+
+#Ia {
+    height: 40px;
+    width: 250px;
+    background-color: #CACBD5;
+    font-size: large;
+    font: italic bold 16px Georgia, Serif;
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 5px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 50px;
+    border-style: hidden;
+}
+
+#IA {
+    height: 40px;
+    width: 250px;
+    background-color: #CACBD5;
+    font-size: large;
+    font: italic bold 16px Georgia, Serif;
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+    border-style: hidden;
+}
+
+#Tx {
+    color: black;
+    font-size: 15px;
+    text-shadow: 1px 1px 10px #000dff;
+}
+
+#Ib {
+    height: 40px;
+    width: 75px;
+    background-color: #CACBD5;
+    font-size: large;
+    font: italic bold 16px Georgia, Serif;
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 5px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 50px;
+    border-style: hidden;
+}
+
+#E14 {
+    height: 25px;
+    width: 200px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+#E15 {
+    height: 25px;
+    width: 200px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+#B {
+    height: 35px;
+    width: 120px;
+    background-color: #CACBD5;
+    font-size: large;
+    font: italic bold 16px Georgia, Serif;
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 5px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 50px;
+    border-style: double;
+}
+
+#T {
+    border-color: black;
+}
+
+#T10 {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(181, 243, 168);
+    text-align: center;
+}
+
+#M10 {
+    height: 30px;
+    width: 225px;
+    background-color: rgb(181, 243, 168);
+    text-align: center;
+}
+
+#T888 {
+    height: 30px;
+    width: 110px;
+    text-align: center;
+    background-color: white;
+}
