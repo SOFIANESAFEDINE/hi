@@ -371,7 +371,7 @@ function calculate() {
   var totalRequirementsB = 0;
   var blueAsh = 0;
 
-  for (var i = currentLevel + 1; i <= nextLevel; i++) {
+  for (var i = currentLevel + 1; i < nextLevel; i++) {
     var levelVarA = 'A' + i;
     var levelVarB = 'B' + i;
 
